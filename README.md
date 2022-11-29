@@ -33,8 +33,6 @@ Minified:
 Working on CI for Github Package and Npm
 (Help Needed) 😭
 
-Docs : https://deep-codes.github.io/affinity-css-dev/
-
 ### Scripts
 
 - `build-dev` : compiles sass for docs
